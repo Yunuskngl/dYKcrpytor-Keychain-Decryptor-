@@ -1,0 +1,12 @@
+.venv/
+.venv-win/
+venv/
+__pycache__/
+*.py[cod]
+*.db-journal
+build/
+dist/
+assets/icons/*.iconset/
+dist/dmg-staging/
+*.spec.bak
+.DS_Store
