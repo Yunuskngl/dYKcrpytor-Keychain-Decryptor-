@@ -21,7 +21,7 @@ python3 -m venv .venv
 | macOS | `./build_macos_app.sh` | `dist/dYKcrpytor.app`, `dist/dYKcrpytor.dmg` |
 | Windows | `build_windows.bat` | `dist\dYKcrpytor.exe` |
 
-Uygulama ikonu: `assets/icons/access-keys.png`
+
 
 GitHub Release ve yükleme rehberi: [RELEASE.md](RELEASE.md)
 
